@@ -6,4 +6,4 @@
 
 Download Tugas
 
-[📥 Download DOCX Tugas Sistem Operasi](https://github.com/SuciIndahSarii/50-command-ubuntu/raw/refs/heads/main/50%20Command%20Line.docx)
+[📥 Download DOCX Tugas Sistem Operasi](https://github.com/SuciIndahSarii/50-command-ubuntu/raw/refs/heads/main/SUCIII.docx)
